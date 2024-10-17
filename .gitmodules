@@ -1,0 +1,6 @@
+[submodule "airlines-search-frontend"]
+	path = airlines-search-frontend
+	url = git@github.com:aleksandr-suhhinin/airlines-search-frontend.git
+[submodule "airlines-search-backend"]
+	path = airlines-search-backend
+	url = git@github.com:aleksandr-suhhinin/airlines-search-backend.git
